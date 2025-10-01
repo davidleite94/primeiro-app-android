@@ -1,7 +1,7 @@
 /*
 Meu Primeiro App Android - Kotlin
 
-DESCRIÇÃO
+DESCRIÇÃO:
     Este é um aplicativo simples para Android, criado em sala de aula com objetivo de aprendizado;
     A interface possui dois campos de entrada (E-mail e Senha) e um botão;
     Quando o botão é pressionado, os valores digitados são exibidos em um Toast.
